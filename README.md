@@ -1,4 +1,3 @@
+# LOCAL-DEMO2
 
-# MAIN local demo2
-
-Some text here
+Additional text in here
